@@ -1,0 +1,15 @@
+{  
+  "name": "ui-illusion",  
+  "version": "6.8.8",  
+  "description": "UI布局的模板",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/ui-illusion"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/ui-illusion"  
+}
